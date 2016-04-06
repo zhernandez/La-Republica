@@ -63,87 +63,69 @@ Lesli
 #publicidad {
   background-color: #f5f5f5;
   border-bottom: 1px solid #d4d4d4; }
-
-#publicidad img {
-  margin-top: 15px;
-  width: 100%; }
-
-#publicidad ul {
-  margin-top: 15px; }
-
-#publicidad li {
-  display: inline;
-  font-weight: bold;
-  padding: 5px;
-  font-size: 12px;
-  text-decoration: none; }
-
-#publicidad a {
-  color: #7f7f7f;
-  text-decoration: none; }
-
-#publicidad .btn-danger {
-  margin-left: 25%;
-  font-size: 11px;
-  padding: 2px; }
-
-#publicidad span {
-  padding: 5px; }
-
-#publicidad .fa-facebook-f {
-  color: #104e8b; }
-
-#publicidad .fa-twitter {
-  color: #1e90ff; }
-
-#publicidad .fa-google-plus {
-  color: #d62d20; }
-
-#publicidad .fa-envelope {
-  color: #ffa700; }
-
-#publicidad .fa-rss {
-  color: #eb8c00; }
-
-#publicidad .btn-link {
-  background-color: #f5f5f5;
-  color: #7f7f7f;
-  font-weight: bold;
-  font-size: 12px;
-  border-right: 1px solid #d0cdcd;
-  border-left: 1px solid #d0cdcd; }
+  #publicidad img {
+    margin-top: 15px;
+    width: 100%; }
+  #publicidad ul {
+    margin-top: 15px; }
+  #publicidad li {
+    display: inline;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 12px;
+    text-decoration: none; }
+  #publicidad a {
+    color: #7f7f7f;
+    text-decoration: none; }
+  #publicidad .btn-danger {
+    margin-left: 25%;
+    font-size: 11px;
+    padding: 2px; }
+  #publicidad span {
+    padding: 5px; }
+  #publicidad .fa-facebook-f {
+    color: #104e8b; }
+  #publicidad .fa-twitter {
+    color: #1e90ff; }
+  #publicidad .fa-google-plus {
+    color: #d62d20; }
+  #publicidad .fa-envelope {
+    color: #ffa700; }
+  #publicidad .fa-rss {
+    color: #eb8c00; }
+  #publicidad .btn-link {
+    background-color: #f5f5f5;
+    color: #7f7f7f;
+    font-weight: bold;
+    font-size: 12px;
+    border-right: 1px solid #d0cdcd;
+    border-left: 1px solid #d0cdcd; }
 
 #logo {
   margin-top: 3%; }
-
-#logo .fut {
-  border: 1px solid #d0cdcd;
-  border-bottom: 2px solid black;
-  font-size: 13px;
-  font-weight: bolder;
-  width: 40%;
-  height: 70px; }
-
-#logo .fut p {
-  margin-top: 9%; }
-
-#logo .gustavo {
-  border: 1px solid #d0cdcd;
-  width: 40%;
-  margin-left: 35px;
-  background-image: url("../image/img_author.jpg");
-  background-repeat: no-repeat;
-  background-position: right; }
-
-#logo .gustavo p {
-  font-weight: bolder; }
-
-#logo .left {
-  float: left;
-  width: 20px; }
-
-#logo .autor {
-  margin-right: 10%; }
+  #logo .fut {
+    border: 1px solid #d0cdcd;
+    border-bottom: 2px solid black;
+    font-size: 13px;
+    font-weight: bolder;
+    width: 40%;
+    height: 70px; }
+    #logo .fut p {
+      margin-top: 9%; }
+  #logo .gustavo {
+    border: 1px solid #d0cdcd;
+    width: 40%;
+    margin-left: 35px;
+    background-image: url("../image/img_author.jpg");
+    background-repeat: no-repeat;
+    background-position: right; }
+    #logo .gustavo p {
+      font-weight: bolder; }
+  #logo .left {
+    float: left;
+    width: 20px; }
+  #logo .autor {
+    margin-right: 10%; }
 
 #menu {
   background-color: #C12D2D !important;
@@ -151,52 +133,86 @@ Lesli
   border: none;
   border-right: 1px solid black;
   border-left: 1px solid black; }
-
-#menu a {
-  background-color: #C12D2D !important;
-  color: white;
-  font-size: 12px;
-  padding: 13px; }
-
-#menu .borde {
-  border-left: 1px solid black;
-  padding: 0;
-  margin: 0; }
+  #menu a {
+    background-color: #C12D2D !important;
+    color: white;
+    font-size: 12px;
+    padding: 13px; }
+  #menu .borde {
+    border-left: 1px solid black;
+    padding: 0;
+    margin: 0; }
 
 #contenido h1 {
   font-weight: bolder;
   font-size: 50px; }
-
 #contenido .bg-gray {
   background-color: #f5f5f5; }
-
 #contenido .active {
   background-color: black; }
-
 #contenido li {
   display: inline; }
-
 #contenido .top {
   margin-top: 5%; }
-
 #contenido .banner {
   width: 100%;
   height: 30px; }
-
 #contenido .height {
   height: 505px; }
-
 #contenido .img-principal {
   width: 100%; }
-
 #contenido h2 {
   margin-top: -30%;
   padding: 5%;
   color: white; }
-
 #contenido h3 {
   margin-top: -23%;
   padding: 3%;
   color: white; }
 
+#todos h4 {
+  color: #a09d9d; }
+#todos .arrow {
+  padding: 3%; }
+#todos .bg-red {
+  background-color: #B81901; }
+#todos li {
+  display: inline-block;
+  padding: 3%; }
+  #todos li:hover {
+    background-color: #D90000;
+    border-radius: 50px;
+    padding: 1% 3%; }
+#todos a {
+  color: white;
+  text-decoration: none; }
+#todos .active {
+  background-color: #811101;
+  border-radius: 50px;
+  padding: 1% 3%;
+  color: white; }
+#todos .bg-gray {
+  background-color: #E2E6E9;
+  width: 24%;
+  height: 100px;
+  padding: 2%;
+  margin-right: 8px; }
+  #todos .bg-gray:hover {
+    background-color: white;
+    border: 1px solid #E2E6E9; }
+#todos .float {
+  float: right;
+  padding: 0; }
+#todos .colum {
+  border: 3px solid white; }
+  #todos .colum:hover {
+    border: 3px solid #E2E6E9; }
+#todos .top {
+  margin-top: 1%; }
+#todos p {
+  font-weight: bolder;
+  font-size: 12px; }
+#todos .txt-gray {
+  color: #949799;
+  font-size: 15px; }
 /*# sourceMappingURL=main.css.map */
