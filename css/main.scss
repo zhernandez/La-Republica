@@ -1,0 +1,190 @@
+.cont-j{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.gal{
+	margin-top: 2em;
+	border: solid 2px #ddd;
+	h4{
+		color: #BA1414;
+	}
+	img{
+		width: 100%
+	}
+}
+.contact{
+	p{
+		margin-bottom: 3em;
+	}
+	label{
+	width: 100%;
+    }
+    input{
+    	margin-top: 2em;
+    	background-color: #eee;
+    }
+    textarea{
+    	background-color: #eee;
+    }
+    button{
+    	background-color: #000;
+    	text-transform: uppercase;
+    	color: #fff;
+    	margin-bottom: 8em;
+    }
+}
+.blogs{
+	h4{
+		color: #A1AFBE;
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+	.bl{
+		padding: 1em;
+		h4{
+			color: #000;
+			text-transform: unset;
+		}
+		div{
+			background-color: #E2E6E9;
+			padding: 1em;
+		}
+		img{
+			background-color: #fff;
+			padding: 2px;
+			border:solid 1px #ccc;
+			width: 4em;
+		}
+	}
+}
+footer{
+	margin-top: 1em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	background-color: #eee;
+	.col-sm-4{
+		padding-top: 5em;
+	}
+	.col-sm-2{
+		font-size: 90%
+	}
+	.linea{
+		border-left: solid 1px #fff;
+	}
+	.raya{
+		padding-top: 1em;
+		border-top: solid 1px #fff;
+		margin-top: 1em;
+	}
+}
+Lesli
+
+#publicidad {
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #d4d4d4; }
+  #publicidad img {
+    margin-top: 15px;
+    width: 100%; }
+  #publicidad ul {
+    margin-top: 15px; }
+  #publicidad li {
+    display: inline;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 12px;
+    text-decoration: none; }
+  #publicidad a {
+    color: #7f7f7f;
+    text-decoration: none; }
+  #publicidad .btn-danger {
+    margin-left: 25%;
+    font-size: 11px;
+    padding: 2px; }
+  #publicidad span {
+    padding: 5px; }
+  #publicidad .fa-facebook-f {
+    color: #104e8b; }
+  #publicidad .fa-twitter {
+    color: #1e90ff; }
+  #publicidad .fa-google-plus {
+    color: #d62d20; }
+  #publicidad .fa-envelope {
+    color: #ffa700; }
+  #publicidad .fa-rss {
+    color: #eb8c00; }
+  #publicidad .btn-link {
+    background-color: #f5f5f5;
+    color: #7f7f7f;
+    font-weight: bold;
+    font-size: 12px;
+    border-right: 1px solid #d0cdcd;
+    border-left: 1px solid #d0cdcd; }
+
+#logo {
+  margin-top: 3%; }
+  #logo .fut {
+    border: 1px solid #d0cdcd;
+    border-bottom: 2px solid black;
+    font-size: 13px;
+    font-weight: bolder;
+    width: 40%;
+    height: 70px; }
+    #logo .fut p {
+      margin-top: 9%; }
+  #logo .gustavo {
+    border: 1px solid #d0cdcd;
+    width: 40%;
+    margin-left: 35px;
+    background-image: url("../image/img_author.jpg");
+    background-repeat: no-repeat;
+    background-position: right; }
+    #logo .gustavo p {
+      font-weight: bolder; }
+  #logo .left {
+    float: left;
+    width: 20px; }
+  #logo .autor {
+    margin-right: 10%; }
+
+#menu {
+  background-color: #C12D2D !important;
+  margin-top: 3%;
+  border: none;
+  border-right: 1px solid black;
+  border-left: 1px solid black; }
+  #menu a {
+    background-color: #C12D2D !important;
+    color: white;
+    font-size: 12px;
+    padding: 13px; }
+  #menu .borde {
+    border-left: 1px solid black;
+    padding: 0;
+    margin: 0; }
+
+#contenido h1 {
+  font-weight: bolder;
+  font-size: 50px; }
+#contenido .bg-gray {
+  background-color: #f5f5f5; }
+#contenido .active {
+  background-color: black; }
+#contenido li {
+  display: inline; }
+#contenido .top {
+  margin-top: 5%; }
+#contenido .banner {
+  width: 100%;
+  height: 30px; }
+#contenido .height {
+  height: 505px; }
+#contenido .img-principal {
+  width: 100%; }
+#contenido h2 {
+  margin-top: -30%;
+  padding: 5%;
+  color: white; }
+#contenido h3 {
+  margin-top: -23%;
+  padding: 3%;
+  color: white; }
